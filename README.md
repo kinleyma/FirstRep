@@ -1,5 +1,3 @@
-B
-B
 This is my first test rep
 Test fetch
 FirstRep
