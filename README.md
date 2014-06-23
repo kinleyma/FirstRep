@@ -4,6 +4,7 @@ FirstRep
 error
 ubuntu
 test fetch too
+fetch no
 ========
 
 第一个仓库
